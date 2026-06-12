@@ -73,7 +73,7 @@ $ whoami
 <div align="center">
 
 <a href="https://github.com/largedrugs/SkinUtils">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=largedrugs&repo=SpartaRat&theme=github_dark&hide_border=true&cache_seconds=3600" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=largedrugs&repo=SkinUtils&theme=github_dark&hide_border=true&cache_seconds=3600" />
 </a>
 
 </div>
