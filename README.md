@@ -1,27 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:161B22,100:58A6FF&text=largedrugs&fontColor=FFFFFF&fontAlign=50&fontSize=60&animation=fadeIn&desc=Go%20%E2%80%A2%20Rust%20%E2%80%A2%20Python%20%E2%80%A2%20TypeScript&descAlign=50&descAlignY=68" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,35:161B22,100:58A6FF&text=largedrugs&fontColor=FFFFFF&fontSize=62&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Go%20•%20Rust%20•%20Python%20•%20TypeScript&descAlign=50&descAlignY=65"/>
 
-# `> largedrugs`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Build.+Break.+Learn.+Repeat.;Backend+Developer;CLI+Tools+%26+Automation;Systems+Programming+Enthusiast" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Build.+Break.+Learn.+Repeat.;Backend+Developer;CLI+Tools+%26+Automation;Systems+Programming+Enthusiast" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=largedrugs&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=largedrugs&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" />
 
 </div>
 
 ---
 
-## ⚡ About
+## ⚡ About Me
 
 ```bash
 $ whoami
 
-> Developer focused on building useful things.
-> I prefer tools that solve problems over hype.
-> Learning by creating. Improving by breaking.
+> Backend Developer
+> Automation enthusiast
+> Rust & Go enjoyer
+> Building useful tools instead of chasing hype
 ```
 
 ---
@@ -36,13 +33,25 @@ $ whoami
 
 ---
 
-## 📊 GitHub Statistics
+## 🌙 Discord
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=largedrugs&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github&card_width=450"/>
+<a href="https://discord.com/users/1496064339684360242">
+<img src="https://lanyard.cnrad.dev/api/1496064339684360242?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&showDisplayName=true&borderRadius=24px&idleMessage=Building%20something..." />
+</a>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=largedrugs&theme=github-dark-blue&hide_border=true"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=largedrugs&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=largedrugs&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
@@ -54,30 +63,19 @@ $ whoami
 
 ---
 
-## 🌙 Discord Presence
+## 📌 Featured Repository
 
 <div align="center">
 
-<img src="https://lanyard.cnrad.dev/api/1496064339684360242?theme=dark&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20coding..." />
+<a href="https://github.com/largedrugs/SkinUtils">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=largedrugs&repo=SpartaRat&theme=github_dark&hide_border=true" />
+</a>
 
 </div>
 
 ---
 
-## 📌 Focus Areas
-
-```text
-• Backend Development
-• CLI Applications
-• Systems Programming
-• Automation
-• Linux Ecosystem
-• Open Source
-```
-
----
-
-## 🐍 Contribution Snake
+## 🐍 Contributions
 
 <div align="center">
 
@@ -87,26 +85,10 @@ $ whoami
 
 ---
 
-## 📂 Featured Repositories
-
 <div align="center">
 
-<a href="https://github.com/largedrugs?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=largedrugs&repo=YOUR_REPOSITORY&theme=github_dark&hide_border=true" />
-</a>
+### "The best way to predict the future is to build it."
 
-<a href="https://github.com/largedrugs?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=largedrugs&repo=YOUR_SECOND_REPOSITORY&theme=github_dark&hide_border=true" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### "The best way to understand something is to build it."
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:58A6FF,100:0D1117" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:58A6FF,100:0D1117"/>
 
 </div>
